@@ -1,7 +1,7 @@
 ## Olá, eu sou Wesley Alcantara
 - 🖥 Acadêmico: Analise e Desenvolvimento de sistemas (ADS) pela UNOPAR.
 - 🖋 Início desta jornada na programação: Agosto/21.
-- ⚡ Curiosidade: Sou Bacharel em Administração de Empresas, espero unir estes conhecimentos para simplificar a vida das pessoas.
+- ⚡ Curiosidade: Sou bacharel em Administração de Empresas, espero unir estes conhecimentos para simplificar a vida das pessoas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
