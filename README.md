@@ -4,7 +4,7 @@
 - ⚡ Curiosidade: Sou bacharel em Administração de Empresas, espero unir estes conhecimentos para simplificar a vida das pessoas.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wesley-Python" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wesley-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
