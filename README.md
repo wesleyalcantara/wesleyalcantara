@@ -1,5 +1,5 @@
 ## Olá, eu sou Wesley Alcantara
-- 🖥 Acadêmico: Analise e Desenvolvimento de sistemas (ADS) na UNOPAR.
+- 🖥 Acadêmico: Analise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
 - 🖋 Início desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou bacharel em Administração de Empresas, espero unir estes conhecimentos para simplificar a vida das pessoas.
 
