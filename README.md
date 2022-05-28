@@ -1,5 +1,5 @@
 ## Olá, eu sou Wesley Alcantara
-- 🖥 Estudante de Data Science na Blue EdTech.
+- 🎲 Estudante de Ciência de Dados na Blue EdTech.
 - 🖥 Acadêmico: Análise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
 - 🖋 Início desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou bacharel em Administração de Empresas e o meu desejo é unir estes conhecimentos para simplificar a vida das pessoas.
