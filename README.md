@@ -2,7 +2,8 @@
 - 🎲 Estudante de Ciência de Dados na Blue EdTech.
 - 🖥 Acadêmico: Análise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
 - 🖋 Início desta jornada na programação: Agosto/21.
-- ⚡ Curiosidade: Sou bacharel em Administração de Empresas e o meu desejo é unir estes conhecimentos para simplificar a vida das pessoas.
+- 🎓 Bacharel em Administração de Empresas.
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
