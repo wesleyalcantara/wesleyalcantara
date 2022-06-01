@@ -5,7 +5,11 @@
 - ⚡ Curiosidade: Sou bacharel em Administração de Empresas e o meu desejo é unir estes conhecimentos para simplificar a vida das pessoas.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" target="_blank">
+<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" target="_blank">
+<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" target="_blank">  
+<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" target="_blank">
 </div>
   
   ##
