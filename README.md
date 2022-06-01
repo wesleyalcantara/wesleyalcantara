@@ -16,7 +16,7 @@
  
 <div> 
  <a href="https://www.linkedin.com/in/wesley-alcantara-58148020b/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>       
- <a href="https://www.linkedin.com/in/wesley-alcantara-58148020b/" target="_blank"> <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" target="_blank"> </a>
+ <a href="https://www.linkedin.com/in/wesley-alcantara-58148020b/" target="_blank"> <img height="30" width="30" padding="50" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" target="_blank"> </a>
   
   ![Snake animation](https://github.com/wesleyalcantara/wesleyalcantara/blob/main/github-contribution-grid-snake.svg)
   
