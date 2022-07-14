@@ -1,5 +1,4 @@
 ## Olá, eu sou Wesley Alcantara
-- 🎲 Estudante de Ciência de Dados na Blue EdTech.
 - 🖥 Acadêmico: Análise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
 - 🖋 Início desta jornada na programação: Agosto/21.
 - 🎓 Bacharel em Administração de Empresas.
@@ -7,9 +6,11 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
-<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" target="_blank">
-<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" target="_blank">  
-<img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" target="_blank">
+<img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank">
+<img align="center" alt="anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" target="_blank">
+<img align="center" alt="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" target="_blank">  
+<img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" target="_blank">
+<img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" target="_blank">
 </div>
   
   ##
