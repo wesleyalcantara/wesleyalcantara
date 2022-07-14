@@ -3,6 +3,11 @@
 - 🖋 Início desta jornada na programação: Agosto/21.
 - 🎓 Bacharel em Administração de Empresas.
 
+<div>
+<a href="https://github.com/wesleyalcantara">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
