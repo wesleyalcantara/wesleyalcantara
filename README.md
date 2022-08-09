@@ -5,6 +5,7 @@
 
 -🎓 Bacharel em Administração de Empresas.
 
+
 <div>
 <a href="https://github.com/wesleyalcantara">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyalcantara&layout=compact&langs_count=7&theme=dracula"/>
