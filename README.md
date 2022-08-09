@@ -1,9 +1,9 @@
 ## Olá, eu sou Wesley Alcantara
 -🖥  Acadêmico de Análise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
 
--🎲 Desejo seguir a carreira de Data Scientist.
-
 -🎓 Bacharel em Administração de Empresas.
+
+-🎲 Desejo seguir a carreira de Data Scientist.
 
 
 <div>
