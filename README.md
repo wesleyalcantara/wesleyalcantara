@@ -3,7 +3,7 @@
 
 -🎓 Bacharel em Administração de Empresas.
 
--🎲 Desejo seguir carreira em Data Science.
+-🎲 Futuro Cientista de Dados.
 
 
 <div>
