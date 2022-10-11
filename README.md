@@ -1,9 +1,10 @@
 ## Olá, eu sou Wesley Alcantara
--🖥  Acadêmico de Análise e Desenvolvimento de Sistemas (ADS) na UNOPAR.
+
+-🎲 Pós-graduação em Business Intelligence, Big Data e Analytics - Ciência de Dados.
+
+-🖥  Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 -🎓 Bacharel em Administração de Empresas.
-
--🎲 Futuro Cientista de Dados.
 
 
 <div>
