@@ -1,10 +1,11 @@
 ## Olá, eu sou Wesley Alcantara
 
--🎲 Pós-graduação em Business Intelligence, Big Data e Analytics - Ciência de Dados.
+-🎲 Pós-graduação em Ciência de Dados.
 
 -🖥  Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 -🎓 Bacharel em Administração de Empresas.
+
 
 
 <div>
