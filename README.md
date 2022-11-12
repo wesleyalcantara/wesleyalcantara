@@ -1,7 +1,5 @@
 ## Olá, eu sou Wesley Alcantara
 
--🎲 Pós-graduação em Ciência de Dados.
-
 -🖥  Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 -🎓 Bacharel em Administração de Empresas.
@@ -16,6 +14,8 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" target="_blank">
+<img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
+<img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank">
 <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
 <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target="_blank">
 <img align="center" alt="anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" target="_blank">
