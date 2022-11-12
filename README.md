@@ -1,6 +1,6 @@
 ## Olá, eu sou Wesley Alcantara
 
--🖥  Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+-🖥  Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 -🎓 Bacharel em Administração de Empresas.
 
