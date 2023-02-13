@@ -1,4 +1,14 @@
-## Olá, eu sou Wesley Alcantara
+## hello, I'm Wesley Alcantara
+
+🪐 Welcome to my space ✨
+
+const wesley = {
+   nature: "Strange",
+   choice: "Programmer",
+   age: "28 years old",
+   faith: "Christian by grace",
+   vocation: "Nerd"
+};
 
 -🖥  Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
