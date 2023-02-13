@@ -3,11 +3,10 @@
 🪐 Welcome to my space ✨
 
 const wesley = {
-   nature: "Strange",
-   choice: "Programmer",
+   vocation: "Nerd",
+   Profissão: "Programmer",
    age: "28 years old",
    faith: "Christian by grace",
-   vocation: "Nerd"
 };
 
 -🖥  Tecnólogo em Análise e Desenvolvimento de Sistemas.
