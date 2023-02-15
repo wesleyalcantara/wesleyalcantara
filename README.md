@@ -4,14 +4,14 @@
 
 const wesley = {
    vocation: "Nerd",
-   Profissão: "Programmer",
+   profession: "Programmer",
    age: "28 years old",
    faith: "Christian by grace",
 };
 
--🖥  Tecnólogo em Análise e Desenvolvimento de Sistemas.
+-🖥  Technologist in Systems Analysis and Development.
 
--🎓 Bacharel em Administração de Empresas.
+-🎓 Bachelor in Business Administration.
 
 
 
