@@ -6,7 +6,7 @@ const wesley = {
    vocation: "Nerd",
    profession: "Programmer",
    age: "28 years old",
-   faith: "Christian by grace",
+   faith: "Christian by grace"
 };
 
 -🖥  Technologist in Systems Analysis and Development.
