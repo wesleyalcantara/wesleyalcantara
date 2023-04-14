@@ -1,6 +1,4 @@
-## hello, I'm Wesley Alcantara
-
-🪐 Welcome to my space
+## 🪐 Welcome to my space
 
 Hello! My name is Wesley, I'm 28 years old, and I have a degree in Business Administration. I have experience working as an Administrative Assistant and Junior Analyst in BackOffice banking. I decided to follow my passion for technology and transitioned to programming. I graduated in System Analysis and Development and I am currently pursuing a post-graduate degree in Web Development. My analytical profile allows me to take a more reflective approach to problem-solving, and my interest in technology has led me to develop skills in programming languages such as JavaScript, HTML, CSS, and Node.js. Additionally, my experience in administration has provided me with skills in organization, planning, working under pressure, and effective communication, which are important in any field. I am excited to continue growing in the technology field and facing new challenges.
 
