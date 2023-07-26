@@ -1,6 +1,6 @@
 ## 🪐 Welcome to my Github!
 
-Hello! My name is Wesley, I'm 28 years old, and I have degrees in Business Administration and Systems Analysis and Development. My analytical profile allows me to approach problems in a more reflective way, and my interest in technology has led me to develop skills in programming languages such as JavaScript, HTML, CSS, and Node.js. Additionally, my experience in administration has provided me with skills in organization, planning, working under pressure, and effective communication, which are important in any field. Currently, I am pursuing a post-graduate degree in Web Development, and I am excited to continue growing in the technology field and facing new challenges.
+Hello! My name is Wesley, I'm 29 years old, and I have degrees in Business Administration and Systems Analysis and Development. My analytical profile allows me to approach problems in a more reflective way, and my interest in technology has led me to develop skills in programming languages such as JavaScript, HTML, CSS, and Node.js. Additionally, my experience in administration has provided me with skills in organization, planning, working under pressure, and effective communication, which are important in any field. Currently, I am pursuing a post-graduate degree in Web Development, and I am excited to continue growing in the technology field and facing new challenges.
 
 -🎓 Technologist in Systems Analysis and Development.
 
@@ -19,6 +19,7 @@ Hello! My name is Wesley, I'm 28 years old, and I have degrees in Business Admin
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
+   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" target="_blank">
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank">
    <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
    <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" target="_blank">
