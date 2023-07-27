@@ -1,6 +1,6 @@
 ## 🪐 Welcome to my Github!
 
-Hello! My name is Wesley, and I have degrees in Business Administration and Systems Analysis and Development. My analytical profile allows me to approach problems in a more reflective way, and my interest in technology has led me to develop skills in programming languages such as JavaScript, HTML, CSS, and Node.js. Additionally, my experience in administration has provided me with skills in organization, planning, working under pressure, and effective communication, which are important in any field. Currently, I am pursuing a post-graduate degree in Web Development, and I am excited to continue growing in the technology field and facing new challenges.
+Hello! My name is Wesley, I have degrees in Business Administration and Systems Analysis and Development. My analytical profile allows me to approach problems in a more reflective way, and my interest in technology has led me to develop skills in programming languages such as JavaScript, HTML, CSS, and Node.js. Additionally, my experience in administration has provided me with skills in organization, planning, working under pressure, and effective communication, which are important in any field. Currently, I am pursuing a post-graduate degree in Web Development, and I am excited to continue growing in the technology field and facing new challenges.
 
 -🎓 Technologist in Systems Analysis and Development.
 
